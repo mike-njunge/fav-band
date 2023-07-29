@@ -13,7 +13,7 @@ In this site you will find a small introduction about H_art The Band.
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://github.com/mike-njunge/fav-band.git">View Favorite Band</a>
+* Live link to view the project <a href="https://mike-njunge.github.io/fav-band/">View Favorite Band</a>
 
 ## Known Bugs
  So far so good there are no bugs related to this project
