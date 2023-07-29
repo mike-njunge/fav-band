@@ -1,4 +1,4 @@
-# fav-band# Favorite Band
+# Favorite Band
 #### This is a project made for my favorite band just to celebrate music. 
 #### Created by Mike Njung'e on 29-07-2023
 ## Description
